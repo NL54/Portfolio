@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\assets",
+    "\\src",
+    "\\src\\content",
+    "\\src\\content\\work",
+    "\\src\\content\\work\\nested",
+    "\\src\\layouts",
+    "\\src\\pages",
+    "\\src\\pages\\work"
+  ],
+  "SelectedNode": "\\src\\content\\work\\DuckLand.md",
+  "PreviewInSolutionExplorer": false
+}
